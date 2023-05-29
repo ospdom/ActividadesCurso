@@ -1,0 +1,10 @@
+package RepasoEscuela;
+
+public class Asignatura {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
